@@ -16,4 +16,9 @@ public class MainActivity extends AppCompatActivity {
     private void fun1(){
         System.out.println("fun1");
     }
+
+
+    private void fun2(){
+        System.out.println("lisi");
+    }
 }
